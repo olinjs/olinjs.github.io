@@ -7,6 +7,12 @@ mixin bio(name, github, githuburl, image, bio)
 		a(href="#{githuburl}") #{github}
 		p.bio #{bio}
 
+mixin thumb(name, githuburl, image)
+	.student-thumb
+		img.avatar(src="#{image}")
+		h5.name
+			a(href="#{githuburl}") #{name}
+
 html(lang="en")
 	head
 		meta(charset="utf-8")
@@ -18,7 +24,12 @@ html(lang="en")
 		link(href="stylesheets/style.css", rel="stylesheet")
 
 	body
+		img(src="img/logo.svg", style="width: 100%")
 		.container
+			.row
+				each student in students
+					.col-sm-3
+						+thumb(student.name, student.githuburl, student.image)
 			.row
 				each teacher in teachers
 					.col-sm-6

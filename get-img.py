@@ -11,7 +11,7 @@ def updateperson(person):
 
 ##
 
-with open("./jade/index.json") as jsonfile:
+with open("./jade/in.json") as jsonfile:
 	index = json.load(jsonfile)
 
 index["teachers"] = map(updateperson, index["teachers"])

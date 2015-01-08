@@ -1,134 +1,4 @@
 {
-    "students": [
-        {
-            "github": "",
-            "name": "John William Quinn"
-        },
-        {
-            "github": "",
-            "name": "Greg Edelston"
-        },
-        {
-            "github": "",
-            "name": "Chaz Gwennap"
-        },
-        {
-            "github": "",
-            "name": "Alexandra Adkins"
-        },
-        {
-            "github": "",
-            "name": "Chris Lee"
-        },
-        {
-            "github": "",
-            "name": "Allie Duncan"
-        },
-        {
-            "github": "",
-            "name": "Brandon Chiou"
-        },
-        {
-            "github": "",
-            "name": "Allison Patterson"
-        },
-        {
-            "github": "",
-            "name": "Marena Richardson"
-        },
-        {
-            "github": "",
-            "name": "Anne Wilkinson"
-        },
-        {
-            "github": "",
-            "name": "Rahil Dedhia"
-        },
-        {
-            "github": "",
-            "name": "David Zhu"
-        },
-        {
-            "github": "",
-            "name": "Deborah Hellen"
-        },
-        {
-            "github": "",
-            "name": "Ryan Eggert"
-        },
-        {
-            "github": "",
-            "name": "Brendan Caporaletti"
-        },
-        {
-            "github": "",
-            "name": "Tenzin Choetso"
-        },
-        {
-            "github": "",
-            "name": "Emily Tumang"
-        },
-        {
-            "github": "",
-            "name": "Philip Seger"
-        },
-        {
-            "github": "",
-            "name": "Radmer Verderheyde"
-        },
-        {
-            "github": "",
-            "name": "Susan Grimshaw"
-        },
-        {
-            "github": "",
-            "name": "Nick Francisci"
-        },
-        {
-            "github": "",
-            "name": "Nitya Dhanushkodi"
-        },
-        {
-            "github": "",
-            "name": "Haley Pelletier"
-        },
-        {
-            "github": "",
-            "name": "Dennis Chen"
-        },
-        {
-            "github": "",
-            "name": "Bonnie Ishiguro"
-        },
-        {
-            "github": "",
-            "name": "Logan Davis"
-        },
-        {
-            "github": "",
-            "name": "Filippos Lymperopoulos"
-        },
-        {
-            "github": "",
-            "name": "ByumHo Jang"
-        },
-        {
-            "github": "",
-            "name": "Ryan Louie"
-        },
-        {
-            "github": "",
-            "name": "Austin Greene"
-        },
-        {
-            "github": "",
-            "name": "Ruby Spring"
-        },
-        {
-            "github": "",
-            "name": "Shivali Chandra"
-        }
-    ],
     "ninjas": [
         {
             "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et.",
@@ -174,5 +44,39 @@
             "name": "Thomas Nattestad",
             "githuburl": "http://www.github.com/thomasnat1"
         }
+    ],
+    "students": [
+{"name": "John William Quinn","github":""},
+{"name": "Greg Edelston","github":""},
+{"name": "Chaz Gwennap","github":""},
+{"name": "Alexandra Adkins","github":""},
+{"name": "Chris Lee","github":""},
+{"name": "Allie Duncan","github":""},
+{"name": "Brandon Chiou","github":""},
+{"name": "Allison Patterson","github":""},
+{"name": "Marena Richardson","github":""},
+{"name": "Anne Wilkinson","github":""},
+{"name": "Rahil Dedhia","github":""},
+{"name": "David Zhu","github":""},
+{"name": "Deborah Hellen","github":""},
+{"name": "Ryan Eggert","github":""},
+{"name": "Brendan Caporaletti","github":""},
+{"name": "Tenzin Choetso","github":""},
+{"name": "Emily Tumang","github":""},
+{"name": "Philip Seger","github":""},
+{"name": "Radmer Verderheyde","github":""},
+{"name": "Susan Grimshaw","github":""},
+{"name": "Nick Francisci","github":""},
+{"name": "Nitya Dhanushkodi","github":""},
+{"name": "Haley Pelletier","github":""},
+{"name": "Dennis Chen","github":""},
+{"name": "Bonnie Ishiguro","github":""},
+{"name": "Logan Davis","github":""},
+{"name": "Filippos Lymperopoulos","github":""},
+{"name": "ByumHo Jang","github":""},
+{"name": "Ryan Louie","github":""},
+{"name": "Austin Greene","github":""},
+{"name": "Ruby Spring","github":""},
+{"name": "Shivali Chandra","github":""}
     ]
 }
