@@ -1,9 +1,9 @@
 doctype html
 
-mixin bio(name, github, girhuburl, image, bio)
+mixin bio(name, github, githuburl, image, bio)
 	.instructor-bio
 		h1.name #{name}
-		img(src="#{image}")
+		img.avatar(src="#{image}")
 		a(href="#{githuburl}") #{github}
 		p.bio #{bio}
 
@@ -15,6 +15,7 @@ html(lang="en")
 		title("Olin.js")
 
 		link(href="css/bootstrap.min.css", rel="stylesheet")
+		link(href="stylesheets/style.css", rel="stylesheet")
 
 	body
 		.container

@@ -5,7 +5,7 @@ def updateperson(person):
 	userdata = requests.get("https://api.github.com/users/"+person["github"], auth=(token, "")).json()
 
 	person["image"] = userdata["avatar_url"]
-	person["githuburl"] = "www.github.com/"+person["github"]
+	person["githuburl"] = "http://www.github.com/"+person["github"]
 
 	return person
 
