@@ -1,42 +1,48 @@
 {
-	"teachers": [
-		{
-			"name": "Ben Kahle",
-			"github": "github.com/benkahle",
-			"image": "",
-			"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et."
-		},
-		{
-			"name": "Evan Dorsky",
-			"github": "github.com/evandorsky",
-			"image": "",
-			"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et."
-		},
-		{
-			"name": "Evan Simpson",
-			"github": "github.com/evansimpson",
-			"image": "",
-			"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et."
-		},
-		{
-			"name": "Thomas Nattestad",
-			"github": "github.com/thomasnat1",
-			"image": "",
-			"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et."
-		}
-	],
-	"ninjas": [
-		{
-			"name": "Josh Langowitz",
-			"github": "github.com/jlangowitz",
-			"image": "",
-			"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et."
-		},
-		{
-			"name": "Sarah Walters",
-			"github": "github.com/sarahwalters",
-			"image": "",
-			"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et."
-		}
-	]
+    "ninjas": [
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et.",
+            "image": "https://avatars.githubusercontent.com/u/3341244?v=3",
+            "github": "jlangowitz",
+            "name": "Josh Langowitz",
+            "githuburl": "www.github.com/jlangowitz"
+        },
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et.",
+            "image": "https://avatars.githubusercontent.com/u/5607966?v=3",
+            "github": "sarahwalters",
+            "name": "Sarah Walters",
+            "githuburl": "www.github.com/sarahwalters"
+        }
+    ],
+    "teachers": [
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et.",
+            "image": "https://avatars.githubusercontent.com/u/3596325?v=3",
+            "github": "benkahle",
+            "name": "Ben Kahle",
+            "githuburl": "www.github.com/benkahle"
+        },
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et.",
+            "image": "https://avatars.githubusercontent.com/u/2582895?v=3",
+            "github": "evandorsky",
+            "name": "Evan Dorsky",
+            "githuburl": "www.github.com/evandorsky"
+        },
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et.",
+            "image": "https://avatars.githubusercontent.com/u/1757661?v=3",
+            "github": "evansimpson",
+            "name": "Evan Simpson",
+            "githuburl": "www.github.com/evansimpson"
+        },
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et.",
+            "image": "https://avatars.githubusercontent.com/u/360172?v=3",
+            "github": "thomasnat1",
+            "name": "Thomas Nattestad",
+            "githuburl": "www.github.com/thomasnat1"
+        }
+    ]
 }

@@ -1,10 +1,10 @@
 doctype html
 
-mixin bio(name, github, image, bio)
+mixin bio(name, github, girhuburl, image, bio)
 	.instructor-bio
 		h1.name #{name}
-		img(src="")
-		a(href="#{github}") #{github}
+		img(src="#{image}")
+		a(href="#{githuburl}") #{github}
 		p.bio #{bio}
 
 html(lang="en")
@@ -21,8 +21,8 @@ html(lang="en")
 			.row
 				each teacher in teachers
 					.col-sm-6
-						+bio(teacher.name, teacher.github, teacher.image, teacher.bio)
+						+bio(teacher.name, teacher.github, teacher.githuburl, teacher.image, teacher.bio)
 			.row
 				each ninja in ninjas
 					.col-sm-6
-						+bio(ninja.name, ninja.github, ninja.image, ninja.bio)
+						+bio(ninja.name, ninja.github, ninja.githuburl, ninja.image, ninja.bio)
