@@ -1,0 +1,28 @@
+doctype html
+
+mixin bio(name, github, image, bio)
+	.instructor-bio
+		h1.name #{name}
+		img(src="")
+		a(href="#{github}") #{github}
+		p.bio #{bio}
+
+html(lang="en")
+	head
+		meta(charset="utf-8")
+		meta(http-equiv="X-UA-Compatible", content="IE=edge")
+		meta(name="viewport", content="width=device-width, initial-scale=1")
+		title("Olin.js")
+
+		link(href="css/bootstrap.min.css", rel="stylesheet")
+
+	body
+		.container
+			.row
+				each teacher in teachers
+					.col-sm-6
+						+bio(teacher.name, teacher.github, teacher.image, teacher.bio)
+			.row
+				each ninja in ninjas
+					.col-sm-6
+						+bio(ninja.name, ninja.github, ninja.image, ninja.bio)
