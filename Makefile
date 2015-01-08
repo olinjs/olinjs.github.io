@@ -1,8 +1,8 @@
-index : jade/index.json jade/index.jade style
+index.html : jade/index.json jade/index.jade stylesheets/style.css
 	jade jade/index.jade -O jade/index.json -o .
 
-img :
+jade/index.json : jade/in.json
 	python get-img.py
 
-style : stylus/style.styl
+stylesheets/style.css : stylus/style.styl
 	stylus stylus/style.styl -o stylesheets
