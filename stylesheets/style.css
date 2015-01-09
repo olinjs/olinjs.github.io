@@ -1,30 +1,39 @@
-* {
+body {
+  background-color: #3573d9;
+  color: #222;
   font-family: Open Sans;
 }
 .jumbotron {
   text-align: center;
 }
-.jumbotron a {
-  color: #3573d9;
-}
-body {
-  background-color: #3573d9;
-}
-img.logo {
+.jumbotron img.logo {
   margin: 0 auto;
   width: 50%;
   max-width: 400px;
 }
-.student-thumb a {
-  color: #fff;
+.jumbotron a {
+  color: #3573d9;
 }
-.instructor-bio a {
-  color: #fff;
+.img-wrap {
+  background-color: rgba(255,255,255,0.2);
+  padding: 8px;
+  margin: 0 auto;
+}
+.row-header {
+  color: #eef;
+}
+.student-thumb a {
+  color: #eef;
 }
 .instructor-bio .name {
+  margin: 8px 0;
+}
+.instructor-bio a {
+  color: #eef;
+}
+.instructor-bio .info {
   text-align: center;
 }
 .instructor-bio .avatar {
-  margin: 0 auto;
   width: 200px;
 }

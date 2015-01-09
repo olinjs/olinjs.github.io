@@ -2,14 +2,17 @@ doctype html
 
 mixin bio(name, github, githuburl, image, bio)
 	.instructor-bio
-		h1.name #{name}
-		img.avatar.img-responsive(src="#{image}")
-		a(href="#{githuburl}") github/#{github}
+		.avatar.img-wrap
+			img.img-responsive(src="#{image}")
+		.info
+			h3.name #{name}
+			a(href="#{githuburl}") github/#{github}
 		p.bio #{bio}
 
 mixin thumb(name, githuburl, image)
 	.student-thumb
-		img.avatar(src="#{image}")
+		.img-wrap
+			img.img-responsive(src="#{image}")
 		h5.name
 			a(href="#{githuburl}") #{name}
 
@@ -34,14 +37,17 @@ html(lang="en")
 					a(href="http://www.github.com/olinjs/olinjs") GitHub
 				h5 Meets Tuesdays and Fridays 3:20–5:00 in AC326 (<a href="ical/class.ics">Download iCal</a>)
 		.container
+			h2.row-header Students
 			.row
 				each student in students
 					.col-sm-3
 						+thumb(student.name, student.githuburl, student.image)
+			h2.row-header Teaching Team						
 			.row
 				each teacher in teachers
 					.col-sm-6
 						+bio(teacher.name, teacher.github, teacher.githuburl, teacher.image, teacher.bio)
+			h2.row-header NINJAs
 			.row
 				each ninja in ninjas
 					.col-sm-6
