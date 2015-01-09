@@ -1,3 +1,30 @@
+* {
+  font-family: Open Sans;
+}
+.jumbotron {
+  text-align: center;
+}
+.jumbotron a {
+  color: #3573d9;
+}
+body {
+  background-color: #3573d9;
+}
+img.logo {
+  margin: 0 auto;
+  width: 50%;
+  max-width: 400px;
+}
+.student-thumb a {
+  color: #fff;
+}
+.instructor-bio a {
+  color: #fff;
+}
+.instructor-bio .name {
+  text-align: center;
+}
 .instructor-bio .avatar {
+  margin: 0 auto;
   width: 200px;
 }
