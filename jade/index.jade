@@ -11,7 +11,7 @@ mixin bio(name, github, githuburl, image, bio)
 
 mixin thumb(name, githuburl, image)
 	.student-thumb
-		.img-wrap
+		.avatar.img-wrap
 			img.img-responsive(src="#{image}")
 		h5.name
 			a(href="#{githuburl}") #{name}
@@ -37,10 +37,11 @@ html(lang="en")
 					a(href="http://www.github.com/olinjs/olinjs") GitHub
 				h5 Meets Tuesdays and Fridays 3:20–5:00 in AC326 (<a href="ical/class.ics">Download iCal</a>)
 		.container
+			p <span class="drop-cap">Olin.js</span> is a student-developed, student-led course 
 			h2.row-header Students
 			.row
 				each student in students
-					.col-sm-3
+					.col-xs-3
 						+thumb(student.name, student.githuburl, student.image)
 			h2.row-header Teaching Team						
 			.row

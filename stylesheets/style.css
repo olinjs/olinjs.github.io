@@ -19,11 +19,23 @@ body {
   padding: 8px;
   margin: 0 auto;
 }
+.drop-cap {
+  font-size: 2.5em;
+  color: #eef;
+}
 .row-header {
   color: #eef;
 }
+.student-thumb .name {
+  display: table-cell;
+  vertical-align: middle;
+}
 .student-thumb a {
   color: #eef;
+}
+.student-thumb .avatar {
+  width: 100px;
+  display: table-cell;
 }
 .instructor-bio .name {
   margin: 8px 0;
@@ -32,6 +44,7 @@ body {
   color: #eef;
 }
 .instructor-bio .info {
+  margin: 6px 0;
   text-align: center;
 }
 .instructor-bio .avatar {

@@ -69,7 +69,9 @@
             "name": "Emily Tumang"
         },
         {
-            "github": "",
+            "githuburl": "http://www.github.com/segerphilip",
+            "image": "https://avatars.githubusercontent.com/u/5553994?v=3",
+            "github": "segerphilip",
             "name": "Philip Seger"
         },
         {
@@ -89,7 +91,9 @@
             "name": "Nitya Dhanushkodi"
         },
         {
-            "github": "",
+            "githuburl": "http://www.github.com/hpelletier",
+            "image": "https://avatars.githubusercontent.com/u/6562821?v=3",
+            "github": "hpelletier",
             "name": "Haley Pelletier"
         },
         {
@@ -113,11 +117,15 @@
             "name": "ByumHo Jang"
         },
         {
-            "github": "",
+            "githuburl": "http://www.github.com/youralien",
+            "image": "https://avatars.githubusercontent.com/u/5459644?v=3",
+            "github": "youralien",
             "name": "Ryan Louie"
         },
         {
-            "github": "",
+            "githuburl": "http://www.github.com/jagreene",
+            "image": "https://avatars.githubusercontent.com/u/6570836?v=3",
+            "github": "jagreene",
             "name": "Austin Greene"
         },
         {
