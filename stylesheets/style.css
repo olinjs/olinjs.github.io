@@ -35,6 +35,7 @@ body {
 }
 .student-thumb .avatar {
   width: 100px;
+  min-width: 100px;
   display: table-cell;
 }
 .instructor-bio .name {

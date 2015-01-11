@@ -2,7 +2,7 @@ import json, requests
 
 def updateperson(person):
 	if not person["github"]:
-		return person
+		person["github"] = "segerphilip"
 	token = "a5e92af24222b2218d6b6a2c073ef017bf67123c"
 	userdata = requests.get("https://api.github.com/users/"+person["github"], auth=(token, "")).json()
 
