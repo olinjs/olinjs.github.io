@@ -20,6 +20,7 @@ body {
   margin: 0 auto;
 }
 .drop-cap {
+  vertical-align: bottom;
   font-size: 2.5em;
   color: #eef;
 }
@@ -27,6 +28,7 @@ body {
   color: #eef;
 }
 .student-thumb .name {
+  padding-left: 0.5em;
   display: table-cell;
   vertical-align: middle;
 }
