@@ -1,14 +1,14 @@
 {
     "ninjas": [
         {
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et.",
+            "bio": "Josh Langowitz may be small, but don’t be fooled by his diminutive stature; this pipsqueak spent the last five years dominating the underground Lucha Libre circuit in and around Guadalajara Mexico. A small misunderstanding involving the beautiful but rebellious daughter of local drug kingpin Lando Calrissiano convinced him to move north of the border, where he traded his menacing Luchador mask for a series of dead-end jobs. Inevitably, his lust for violence and danger dragged him back into the seedy, high-stakes world of software development.",
             "image": "https://avatars.githubusercontent.com/u/3341244?v=3",
             "github": "jlangowitz",
             "name": "Josh Langowitz",
             "githuburl": "http://www.github.com/jlangowitz"
         },
         {
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et.",
+            "bio": "‘Sarah Walters’, if she even exists, is one of the finest computer engineers of our generation. Her legend is passed around Silicon Valley like whispers of a ghost: a coder with fiery red hair and a finger in every major project since Google Plus. Her name appears in the source code of thousands of products across the globe, including every last app on the app store. Many impostors have come forward purporting to be this untraceable titan, but none possess the raw skill and lighting reflexes that have become the Walters trademark. Elon Musk has offered a $1,000,000 reward for her capture, or $500,000 for proof of her demise. However, all efforts to track her down, or even definitively prove her existence, have proved fruitless.",
             "image": "https://avatars.githubusercontent.com/u/5607966?v=3",
             "github": "sarahwalters",
             "name": "Sarah Walters",
@@ -17,28 +17,28 @@
     ],
     "teachers": [
         {
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et.",
+            "bio": "Ben Kahle grew up in Beverly Hills, an area often called ‘The Harvard of Hard Knocks’ on account of its reputation for low income and high gang activity. A short stint in county jail at 18 only cemented Ben’s descent into a life of crime, and his sharp mind and disregard for authority has made him a thorn in the side of police forces across the country. Throughout the nineties, many considered Mr. Kahle to be the best safecracker operating west of the Rockies, but a botched bank job in ’01 ended with a dead SWAT team and a life sentence in a Nevada SuperMax. Ben orchestrated a daring breakout just months later, using a sharpened toothbrush and the confusion surrounding a shipment of kale leaves to the prison cafeteria. Ben has been running from the law ever since; if you believe you have seen him, please call the FBI Tipline.",
             "image": "https://avatars.githubusercontent.com/u/3596325?v=3",
             "github": "benkahle",
             "name": "Ben Kahle",
             "githuburl": "http://www.github.com/benkahle"
         },
         {
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et.",
+            "bio": "A tuba protégé and expert pianist, Evan Brosky is one of the two surviving members of the infamous prog-rock supergroup ‘The Evans’. His meteoric rise to fame was unprecedented in the music industry; rock legend Erwin Schrodinger said of a young Brosky “…a marvelous musician… I think about the only thing the man can’t play is the violin!” After the tragic breakup of ‘The Evans’ and ensuing Canadian civil war, Evan escaped to Nashville and began a promising country music career. However, his continuing inability to master the violin drew him into a darker and darker self-destructive spiral, eventually destroying both his career and his marriage. To feed his growing drug habit, he turned to computer espionage. Some blame him for recent attacks against the Apple computer company; experts cite Brosky’s own struggle with his bent iPhone 6+ as a possible motive.",
             "image": "https://avatars.githubusercontent.com/u/2582895?v=3",
             "github": "evandorsky",
             "name": "Evan Dorsky",
             "githuburl": "http://www.github.com/evandorsky"
         },
         {
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et.",
+            "bio": "Standing before the Canadian firing squad and smoking his last cigarette, Evan O’Leary famously remarked, “My only regret is bringing Evan Simpson into the band!” Unlike Brosky, Simpson turned to music much later in life. Evan lied his way into the army at 15, and quickly became an Airborne Ranger. After killing a talented concert cellist during a shootout at the Sydney Opera house, Simpson absorbed the man’s powers and began a world concert tour. At the time, ‘The Evans’ were looking to replace a disgraced Evan Thomson, and Simpson seemed a natural fit. However, his penchant for groupies, as well as his infernal struggle with the trapped soul of the Australian musician, slowly tore the group apart. After an exorcism in 2009, a talentless Simpson was forced into a software development position at MathWorks.",
             "image": "https://avatars.githubusercontent.com/u/1757661?v=3",
             "github": "evansimpson",
             "name": "Evan Simpson",
             "githuburl": "http://www.github.com/evansimpson"
         },
         {
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor felis, interdum non elit molestie, feugiat euismod mauris. Curabitur mattis consequat enim. Donec elementum vitae neque vel venenatis. Maecenas lacinia, orci at tincidunt pulvinar, justo erat euismod libero, ut sollicitudin ante mauris sed sem. Nullam purus sem, dignissim sed nunc quis, condimentum tincidunt risus. Phasellus vitae enim et tellus scelerisque fringilla. Vestibulum auctor faucibus enim, in blandit tellus dapibus et.",
+            "bio": "Lord Thomas ‘Bjornfjordjorggenssgvogggern’ Nattersted left his icy homeland of Sweden to study web development and walrus-human relations. Hobbies of this crafty Norwegian include coin collecting and raiding villages along the English coastline. Being from Europe, Thomas is thankful every day that he doesn’t speak any German, and has decided to repay some small portion of this debt by sprucing up the login page for every website in America. He has turned down two appointments to the presidency of his native Belgium and killed countless assassins in his single-minded pursuit of this goal. Someday he hopes to return home to Iceland aboard a giant iceberg, like in that Christmas movie with Will Ferrell.",
             "image": "https://avatars.githubusercontent.com/u/360172?v=3",
             "github": "thomasnat1",
             "name": "Thomas Nattestad",
@@ -48,21 +48,18 @@
     "students": [
 {"name": "John William Quinn","github":"jwq1"},
 {"name": "Greg Edelston","github":"Gredelston"},
-{"name": "Chaz Gwennap","github":""},
-{"name": "Alexandra Adkins","github":""},
-{"name": "Chris Lee","github":""},
-{"name": "Allie Duncan","github":""},
-{"name": "Brandon Chiou","github":""},
-{"name": "Allison Patterson","github":""},
+{"name": "Chaz Gwennap","github":"Chazzz"},
+{"name": "Alexandra Adkins","github":"alexadkins"},
+{"name": "Chris Lee","github":"sihrc"},
+{"name": "Allison Patterson","github":"allisongpatterson"},
 {"name": "Marena Richardson","github":"marenar"},
-{"name": "Anne Wilkinson","github":""},
 {"name": "Rahil Dedhia","github":"rdedhia"},
 {"name": "David Zhu","github":"hdavidzhu"},
 {"name": "Deborah Hellen","github":"deborahhellen"},
 {"name": "Ryan Eggert","github":"RyanEggert"},
-{"name": "Brendan Caporaletti","github":""},
+{"name": "Brendan Caporaletti","github":"bren525"},
 {"name": "Tenzin Choetso","github":"tchoetso"},
-{"name": "Emily Tumang","github":""},
+{"name": "Emily Tumang","github":"etumang"},
 {"name": "Philip Seger","github":"segerphilip"},
 {"name": "Radmer Verderheyde","github":"rvanderheyde"},
 {"name": "Susan Grimshaw","github":"sgrim3"},
@@ -71,12 +68,13 @@
 {"name": "Haley Pelletier","github":"hpelletier"},
 {"name": "Dennis Chen","github":"dennis-chen"},
 {"name": "Bonnie Ishiguro","github":"bishiguro"},
-{"name": "Logan Davis","github":""},
 {"name": "Filippos Lymperopoulos","github":"flymperopoulos"},
 {"name": "ByumHo Jang","github":"acejang1994"},
 {"name": "Ryan Louie","github":"youralien"},
 {"name": "Austin Greene","github":"jagreene"},
 {"name": "Ruby Spring","github":"bringsyrup"},
-{"name": "Chelsea Bailey","github":""}
+{"name": "Chelsea Bailey","github":"c-bailey"},
+{"name": "Yuzhong Huang","github":"YuzhongHuang"},
+{"name": "Joey Maalouf","github":"joeylmaalouf"}
     ]
 }
