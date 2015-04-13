@@ -1,9 +1,11 @@
 import json, requests
 
+with open("token.txt") as f:
+    token = f.readline()
+
 def updateperson(person):
 	if not person["github"]:
 		person["github"] = "segerphilip"
-	token = "a5e92af24222b2218d6b6a2c073ef017bf67123c"
 	userdata = requests.get("https://api.github.com/users/"+person["github"], auth=(token, "")).json()
 
 	print person["name"]
