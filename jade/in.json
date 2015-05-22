@@ -52,32 +52,96 @@
     }
   ],
   "students": [
-{"name": "John William Quinn","github":"jwq1"},
-{"name": "Greg Edelston","github":"Gredelston"},
-{"name": "Chaz Gwennap","github":"Chazzz"},
-{"name": "Chris Lee","github":"sihrc"},
-{"name": "Allison Patterson","github":"allisongpatterson"},
-{"name": "Marena Richardson","github":"marenar"},
-{"name": "Rahil Dedhia","github":"rdedhia"},
-{"name": "David Zhu","github":"hdavidzhu"},
-{"name": "Deborah Hellen","github":"deborahhellen"},
-{"name": "Ryan Eggert","github":"RyanEggert"},
-{"name": "Brendan Caporaletti","github":"bren525"},
-{"name": "Tenzin Choetso","github":"tchoetso"},
-{"name": "Emily Tumang","github":"etumang"},
-{"name": "Philip Seger","github":"segerphilip"},
-{"name": "Radmer Verderheyde","github":"rvanderheyde"},
-{"name": "Susan Grimshaw","github":"sgrim3"},
-{"name": "Nick Francisci","github":"manickyoj"},
-{"name": "Nitya Dhanushkodi","github":"ndhanushkodi"},
-{"name": "Haley Pelletier","github":"hpelletier"},
-{"name": "Dennis Chen","github":"dennis-chen"},
-{"name": "Bonnie Ishiguro","github":"bishiguro"},
-{"name": "Filippos Lymperopoulos","github":"flymperopoulos"},
-{"name": "ByumHo Jang","github":"acejang1994"},
-{"name": "Ryan Louie","github":"youralien"},
-{"name": "Austin Greene","github":"jagreene"},
-{"name": "Chelsea Bailey","github":"c-bailey"},
-{"name": "Yuzhong Huang","github":"YuzhongHuang"}
+    {"name": "John William Quinn","github":"jwq1"},
+    {"name": "Greg Edelston","github":"Gredelston"},
+    {"name": "Chaz Gwennap","github":"Chazzz"},
+    {"name": "Chris Lee","github":"sihrc"},
+    {"name": "Allison Patterson","github":"allisongpatterson"},
+    {"name": "Marena Richardson","github":"marenar"},
+    {"name": "Rahil Dedhia","github":"rdedhia"},
+    {"name": "David Zhu","github":"hdavidzhu"},
+    {"name": "Deborah Hellen","github":"deborahhellen"},
+    {"name": "Ryan Eggert","github":"RyanEggert"},
+    {"name": "Brendan Caporaletti","github":"bren525"},
+    {"name": "Tenzin Choetso","github":"tchoetso"},
+    {"name": "Emily Tumang","github":"etumang"},
+    {"name": "Philip Seger","github":"segerphilip"},
+    {"name": "Radmer van der Heyde","github":"rvanderheyde"},
+    {"name": "Susan Grimshaw","github":"sgrim3"},
+    {"name": "Nick Francisci","github":"manickyoj"},
+    {"name": "Nitya Dhanushkodi","github":"ndhanushkodi"},
+    {"name": "Haley Pelletier","github":"hpelletier"},
+    {"name": "Dennis Chen","github":"dennis-chen"},
+    {"name": "Bonnie Ishiguro","github":"bishiguro"},
+    {"name": "Filippos Lymperopoulos","github":"flymperopoulos"},
+    {"name": "ByumHo Jang","github":"acejang1994"},
+    {"name": "Ryan Louie","github":"youralien"},
+    {"name": "Austin Greene","github":"jagreene"},
+    {"name": "Chelsea Bailey","github":"c-bailey"},
+    {"name": "Yuzhong Huang","github":"YuzhongHuang"}
+  ],
+  "projects": [
+    {
+      "name": "boolio",
+      "description": " ",
+      "students": [
+        "Chris Lee",
+        "Ryan Louie",
+        "ByumHo Jang",
+        "Filippos Lymperopoulos"
+      ]
+    },
+    {
+      "name": "Phoenix Timeline",
+      "description": " ",
+      "students": [
+        "Bonnie Ishiguro",
+        "Nick Francisci",
+        "Emily Tumang",
+        "Tenzin Choetso",
+        "Haley Pelletier"
+      ]
+    },
+    {
+      "name": "Bingo",
+      "description": " ",
+      "students": [
+        "Ryan Eggert",
+        "Chaz Gwennap",
+        "Deborah Hellen",
+        "Yuzhong Huang"
+      ]
+    },
+    {
+      "name": "Obay",
+      "description": " ",
+      "students": [
+        "Nitya Dhanushkodi",
+        "Dennis Chen",
+        "Allison Patterson",
+        "David Zhu",
+        "Susan Grimshaw"
+      ]
+    },
+    {
+      "name": "Oband",
+      "description": " ",
+      "students": [
+        "Greg Edelston",
+        "Philip Seger",
+        "Radmer van der Heyde",
+        "Rahil Dedhia"
+      ]
+    },
+    {
+      "name": "Honey Bunches of ____",
+      "description": " ",
+      "students": [
+        "Chelsea Bailey",
+        "Brendan Caporaletti",
+        "Marena Richardson",
+        "Austin Greene"
+      ]
+    }
   ]
 }

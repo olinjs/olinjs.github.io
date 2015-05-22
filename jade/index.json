@@ -88,7 +88,7 @@
             "githuburl": "http://www.github.com/rvanderheyde",
             "image": "https://avatars.githubusercontent.com/u/6156042?v=3",
             "github": "rvanderheyde",
-            "name": "Radmer Verderheyde"
+            "name": "Radmer van der Heyde"
         },
         {
             "githuburl": "http://www.github.com/sgrim3",
@@ -213,6 +213,70 @@
             "realbio": "Lord Thomas \u2018Bjornfjordjorggenssgvogggern\u2019 Nattersted left his icy homeland of Sweden to study web development and walrus-human relations. Hobbies of this crafty Norwegian include coin collecting and raiding villages along the English coastline. Being from Europe, Thomas is thankful every day that he doesn\u2019t speak any German, and has decided to repay some small portion of this debt by sprucing up the login page for every website in America. He has turned down two appointments to the presidency of his native Belgium and killed countless assassins in his single-minded pursuit of this goal. Someday he hopes to return home to Iceland aboard a giant iceberg, like in that Christmas movie with Will Ferrell.",
             "image": "https://avatars.githubusercontent.com/u/360172?v=3",
             "githuburl": "http://www.github.com/thomasnat1"
+        }
+    ],
+    "projects": [
+        {
+            "students": [
+                "Chris Lee",
+                "Ryan Louie",
+                "ByumHo Jang",
+                "Filippos Lymperopoulos"
+            ],
+            "name": "boolio",
+            "description": " "
+        },
+        {
+            "students": [
+                "Bonnie Ishiguro",
+                "Nick Francisci",
+                "Emily Tumang",
+                "Tenzin Choetso",
+                "Haley Pelletier"
+            ],
+            "name": "Phoenix Timeline",
+            "description": " "
+        },
+        {
+            "students": [
+                "Ryan Eggert",
+                "Chaz Gwennap",
+                "Deborah Hellen",
+                "Yuzhong Huang"
+            ],
+            "name": "Bingo",
+            "description": " "
+        },
+        {
+            "students": [
+                "Nitya Dhanushkodi",
+                "Dennis Chen",
+                "Allison Patterson",
+                "David Zhu",
+                "Susan Grimshaw"
+            ],
+            "name": "Obay",
+            "description": " "
+        },
+        {
+            "students": [
+                "Greg Edelston",
+                "Philip Seger",
+                "Radmer van der Heyde",
+                "Rahil Dedhia"
+            ],
+            "name": "Oband",
+            "description": " "
+        },
+        {
+            "students": [
+                "Chelsea Bailey",
+                "Brendan Caporaletti",
+                "Marena Richardson",
+                "Austin Greene"
+            ],
+            "name": "Honey Bunches of ____",
+            "description": " "
         }
     ]
 }
