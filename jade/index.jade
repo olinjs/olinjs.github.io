@@ -1,20 +1,25 @@
 doctype html
 
-mixin bio(name, github, githuburl, image, bio)
+mixin bio(teacher)
 	.instructor-bio
 		.avatar.img-wrap
-			img.img-responsive(src="#{image}")
+			img.img-responsive(src="#{teacher.image}")
 		.info
-			h3.name #{name}
-			a(href="#{githuburl}") github/#{github}
-		p.bio #{bio}
+			h3.name #{teacher.name}
+			a(href="#{teacher.githuburl}") github/#{teacher.github}
+		p.bio #{teacher.bio}
 
-mixin thumb(name, githuburl, image)
+mixin thumb(student)
 	.student-thumb
 		.avatar.img-wrap
-			img.img-responsive(src="#{image}")
+			img.img-responsive(src="#{student.image}")
 		h5.name
-			a(href="#{githuburl}") #{name}
+			a(href="#{student.githuburl}") #{student.name}
+
+mixin project(proj)
+	.project
+		h3 #{proj.name}
+		p #{proj.description}
 
 html(lang="en")
 	head
@@ -45,6 +50,20 @@ html(lang="en")
 			p <span class="drop-cap">Olin.js</span> is a student-led and -developed project-oriented approach to learning modern web application development. With server and client technology advancing so rapidly, the modern website looks very different from that of even a few years ago, and the web will only become a bigger part of our lives in the near future. Olin.js quickly familiarizes students with Node.js as a web server framework and ES5 JavaScript as a responsive client-side language with four weeks of introductory instruction and three weeks of partner labs.
 
 			p Along the way, students learn the basic layout of the web; how to deploy and maintain large applications; important development strategies, skills, and technologies; and how to design and manage complex, multi-developer software projects. Students spend the last six weeks of the course putting their knowledge and skills to the test by designing and developing their own web applications.
+			h2.row-header Final Projects
+
+			p The Olin.js class of 2015 created some amazing web apps!
+
+			.row
+				each proj, i in projects
+					if i%2 === 0
+						.row
+							.col-sm-6
+								+project(proj)
+							if i+1 < projects.length
+								.col-sm-6
+									+project(projects[i+1])
+
 			h2.row-header Students
 			.row
 				each student, i in students
@@ -52,17 +71,17 @@ html(lang="en")
 						.col-xs-6
 							.row
 								.col-sm-6.student-container
-									+thumb(student.name, student.githuburl, student.image)
+									+thumb(student)
 								if i+1 < students.length
 									.col-sm-6.student-container
-										+thumb(students[i+1].name, students[i+1].githuburl, students[i+1].image)
-			h2.row-header Teaching Team						
+										+thumb(students[i+1])
+			h2.row-header Teaching Team           
 			.row
 				each teacher in teachers
 					.col-sm-6
-						+bio(teacher.name, teacher.github, teacher.githuburl, teacher.image, teacher.bio)
+						+bio(teacher)
 			h2.row-header Course Assistants
 			.row
 				each ninja in ninjas
 					.col-sm-6
-						+bio(ninja.name, ninja.github, ninja.githuburl, ninja.image, ninja.bio)
+						+bio(ninja)
