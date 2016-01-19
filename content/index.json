@@ -196,6 +196,13 @@
     "ninjas": [
         {
             "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+            "image": "https://avatars.githubusercontent.com/u/6563663?v=3",
+            "github": "aloverso",
+            "name": "Anne LoVerso",
+            "githuburl": "http://www.github.com/aloverso"
+        },
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
             "image": "https://avatars.githubusercontent.com/u/6440471?v=3",
             "github": "dennis-chen",
             "name": "Dennis Chen",
@@ -217,13 +224,6 @@
         }
     ],
     "teachers": [
-        {
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
-            "image": "https://avatars.githubusercontent.com/u/6563663?v=3",
-            "github": "aloverso",
-            "name": "Anne LoVerso",
-            "githuburl": "http://www.github.com/aloverso"
-        },
         {
             "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
             "image": "https://avatars.githubusercontent.com/u/6570836?v=3",
