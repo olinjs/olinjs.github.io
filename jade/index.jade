@@ -23,7 +23,7 @@ html(lang="en")
 		meta(name="viewport", content="width=device-width, initial-scale=1")
 		title("Olin.js")
 
-		link(href="css/bootstrap.min.css", rel="stylesheet")
+		link(href="stylesheets/bootstrap.min.css", rel="stylesheet")
 		link(href="stylesheets/style.css", rel="stylesheet")
 		link(href='http://fonts.googleapis.com/css?family=Open+Sans:300', rel='stylesheet', type='text/css')
 
@@ -35,12 +35,12 @@ html(lang="en")
 
 				h3
 					a(href="http://www.github.com/olinjs/olinjs") GitHub
-				h5 Meets Tuesdays and Fridays 3:20–5:00 in AC326 (<a href="ical/class.ics">Download iCal</a>)
+				h5 Meets Tuesdays and Fridays 3:20–5:00 in AC328 (<a href="ical/class.ics">Download iCal</a>)
 
-				h3 Office Hours
-				h5 Mondays 8:00–10:00 in EH2 (<a href="ical/monday.ics">iCal</a>)
-				h5 Wednesdays 8:00–10:00 in the Library (<a href="ical/wednesday.ics">iCal</a>)
-				h5 Thursdays 9:00–11:00 in EH2 (<a href="ical/thursday.ics">iCal</a>)
+				//h3 Office Hours
+				//h5 Mondays 8:00–10:00 in EH2 (<a href="ical/monday.ics">iCal</a>)
+				//h5 Wednesdays 8:00–10:00 in the Library (<a href="ical/wednesday.ics">iCal</a>)
+				//h5 Thursdays 9:00–11:00 in EH2 (<a href="ical/thursday.ics">iCal</a>)
 		.container
 			p <span class="drop-cap">Olin.js</span> is a student-led and -developed project-oriented approach to learning modern web application development. With server and client technology advancing so rapidly, the modern website looks very different from that of even a few years ago, and the web will only become a bigger part of our lives in the near future. Olin.js quickly familiarizes students with Node.js as a web server framework and ES5 JavaScript as a responsive client-side language with four weeks of introductory instruction and three weeks of partner labs.
 
@@ -56,7 +56,7 @@ html(lang="en")
 								if i+1 < students.length
 									.col-sm-6.student-container
 										+thumb(students[i+1].name, students[i+1].githuburl, students[i+1].image)
-			h2.row-header Teaching Team						
+			h2.row-header Teaching Team
 			.row
 				each teacher in teachers
 					.col-sm-6

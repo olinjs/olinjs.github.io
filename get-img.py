@@ -1,11 +1,11 @@
 import json, requests
 
 with open("token.txt") as f:
-    token = f.readline()
+    token = f.readline().strip()
 
 def updateperson(person):
 	if not person["github"]:
-		person["github"] = "segerphilip"
+		person["github"] = "olinjs"
 	userdata = requests.get("https://api.github.com/users/"+person["github"], auth=(token, "")).json()
 
 	print person["name"]
@@ -16,7 +16,7 @@ def updateperson(person):
 
 ##
 
-with open("./jade/in.json") as jsonfile:
+with open("./content/input.json") as jsonfile:
 	index = json.load(jsonfile)
 
 index["teachers"] = map(updateperson, index["teachers"])
@@ -25,5 +25,5 @@ index["students"] = map(updateperson, index["students"])
 
 print "Done!"
 
-with open("./jade/index.json", "w") as jsonfile:
+with open("./content/index.json", "w") as jsonfile:
 	json.dump(index, jsonfile, indent=4, separators=(',', ': '))

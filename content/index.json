@@ -1,0 +1,256 @@
+{
+    "students": [
+        {
+            "githuburl": "http://www.github.com/adeaver",
+            "image": "https://avatars.githubusercontent.com/u/9396170?v=3",
+            "github": "adeaver",
+            "name": "Andrew Deaver"
+        },
+        {
+            "githuburl": "http://www.github.com/aconsilvio",
+            "image": "https://avatars.githubusercontent.com/u/10188086?v=3",
+            "github": "aconsilvio",
+            "name": "Annabel Consilvio"
+        },
+        {
+            "githuburl": "http://www.github.com/acenario",
+            "image": "https://avatars.githubusercontent.com/u/591849?v=3",
+            "github": "acenario",
+            "name": "Arjun Bhatnagar"
+        },
+        {
+            "githuburl": "http://www.github.com/billmwong",
+            "image": "https://avatars.githubusercontent.com/u/10703134?v=3",
+            "github": "billmwong",
+            "name": "Bill Wong"
+        },
+        {
+            "githuburl": "http://www.github.com/brennamanning",
+            "image": "https://avatars.githubusercontent.com/u/8933563?v=3",
+            "github": "brennamanning",
+            "name": "Brenna Manning"
+        },
+        {
+            "githuburl": "http://www.github.com/byronwasti",
+            "image": "https://avatars.githubusercontent.com/u/5985936?v=3",
+            "github": "byronwasti",
+            "name": "Byron Wasti"
+        },
+        {
+            "githuburl": "http://www.github.com/caseyalvarado",
+            "image": "https://avatars.githubusercontent.com/u/6495376?v=3",
+            "github": "caseyalvarado",
+            "name": "Casey Alvarado"
+        },
+        {
+            "githuburl": "http://www.github.com/charliemouton",
+            "image": "https://avatars.githubusercontent.com/u/6484734?v=3",
+            "github": "charliemouton",
+            "name": "Charles Mouton"
+        },
+        {
+            "githuburl": "http://www.github.com/cwallac",
+            "image": "https://avatars.githubusercontent.com/u/5944477?v=3",
+            "github": "cwallac",
+            "name": "Christopher Wallace"
+        },
+        {
+            "githuburl": "http://www.github.com/yunhsincynthiachen",
+            "image": "https://avatars.githubusercontent.com/u/6495522?v=3",
+            "github": "yunhsincynthiachen",
+            "name": "Cynthia Chen"
+        },
+        {
+            "githuburl": "http://www.github.com/daniel6",
+            "image": "https://avatars.githubusercontent.com/u/1865720?v=3",
+            "github": "daniel6",
+            "name": "Daniel Bishop"
+        },
+        {
+            "githuburl": "http://www.github.com/greneroom",
+            "image": "https://avatars.githubusercontent.com/u/8933701?v=3",
+            "github": "greneroom",
+            "name": "David Abrahams"
+        },
+        {
+            "githuburl": "http://www.github.com/olinjs",
+            "image": "https://avatars.githubusercontent.com/u/3213751?v=3",
+            "github": "olinjs",
+            "name": "Dominique McKenzie"
+        },
+        {
+            "githuburl": "http://www.github.com/buttegab",
+            "image": "https://avatars.githubusercontent.com/u/10703237?v=3",
+            "github": "buttegab",
+            "name": "Gabriel Butterick"
+        },
+        {
+            "githuburl": "http://www.github.com/hannahtwiggsmith",
+            "image": "https://avatars.githubusercontent.com/u/10691724?v=3",
+            "github": "hannahtwiggsmith",
+            "name": "Hannah Twigg-Smith"
+        },
+        {
+            "githuburl": "http://www.github.com/iangmhill",
+            "image": "https://avatars.githubusercontent.com/u/6565554?v=3",
+            "github": "iangmhill",
+            "name": "Ian Hill"
+        },
+        {
+            "githuburl": "http://www.github.com/jenwei",
+            "image": "https://avatars.githubusercontent.com/u/6274515?v=3",
+            "github": "jenwei",
+            "name": "Jennifer Wei"
+        },
+        {
+            "githuburl": "http://www.github.com/joeylmaalouf",
+            "image": "https://avatars.githubusercontent.com/u/5214728?v=3",
+            "github": "joeylmaalouf",
+            "name": "Joey Maalouf"
+        },
+        {
+            "githuburl": "http://www.github.com/jovanduy",
+            "image": "https://avatars.githubusercontent.com/u/3158226?v=3",
+            "github": "jovanduy",
+            "name": "Jordan Van Duyne"
+        },
+        {
+            "githuburl": "http://www.github.com/olinjs",
+            "image": "https://avatars.githubusercontent.com/u/3213751?v=3",
+            "github": "olinjs",
+            "name": "Julian Morris"
+        },
+        {
+            "githuburl": "http://www.github.com/keenanzucker",
+            "image": "https://avatars.githubusercontent.com/u/9198674?v=3",
+            "github": "keenanzucker",
+            "name": "Keenan Zucker"
+        },
+        {
+            "githuburl": "http://www.github.com/logansweet",
+            "image": "https://avatars.githubusercontent.com/u/10763029?v=3",
+            "github": "logansweet",
+            "name": "Logan Sweet"
+        },
+        {
+            "githuburl": "http://www.github.com/olinjs",
+            "image": "https://avatars.githubusercontent.com/u/3213751?v=3",
+            "github": "olinjs",
+            "name": "Mac-I Crowell"
+        },
+        {
+            "githuburl": "http://www.github.com/nmohamed",
+            "image": "https://avatars.githubusercontent.com/u/10054148?v=3",
+            "github": "nmohamed",
+            "name": "Nora Mohamed"
+        },
+        {
+            "githuburl": "http://www.github.com/phuston",
+            "image": "https://avatars.githubusercontent.com/u/7811805?v=3",
+            "github": "phuston",
+            "name": "Patrick Huston"
+        },
+        {
+            "githuburl": "http://www.github.com/skumarasena",
+            "image": "https://avatars.githubusercontent.com/u/5439907?v=3",
+            "github": "skumarasena",
+            "name": "Samantha Kumarasena"
+        },
+        {
+            "githuburl": "http://www.github.com/seanccarter",
+            "image": "https://avatars.githubusercontent.com/u/9343695?v=3",
+            "github": "seanccarter",
+            "name": "Sean Carter"
+        },
+        {
+            "githuburl": "http://www.github.com/shrutiyer",
+            "image": "https://avatars.githubusercontent.com/u/9905402?v=3",
+            "github": "shrutiyer",
+            "name": "Shruti Iyer"
+        },
+        {
+            "githuburl": "http://www.github.com/phiaseitz",
+            "image": "https://avatars.githubusercontent.com/u/5447050?v=3",
+            "github": "phiaseitz",
+            "name": "Sophia Seitz"
+        },
+        {
+            "githuburl": "http://www.github.com/zbhuiyan",
+            "image": "https://avatars.githubusercontent.com/u/10710295?v=3",
+            "github": "zbhuiyan",
+            "name": "Zarin Bhuiyan"
+        },
+        {
+            "githuburl": "http://www.github.com/zhecanjameswang",
+            "image": "https://avatars.githubusercontent.com/u/8936136?v=3",
+            "github": "zhecanjameswang",
+            "name": "Zhecan James Wang"
+        },
+        {
+            "githuburl": "http://www.github.com/dinopants174",
+            "image": "https://avatars.githubusercontent.com/u/5992372?v=3",
+            "github": "dinopants174",
+            "name": "Zoher Ghadyali"
+        }
+    ],
+    "ninjas": [
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+            "image": "https://avatars.githubusercontent.com/u/6563663?v=3",
+            "github": "aloverso",
+            "name": "Anne LoVerso",
+            "githuburl": "http://www.github.com/aloverso"
+        },
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+            "image": "https://avatars.githubusercontent.com/u/6440471?v=3",
+            "github": "dennis-chen",
+            "name": "Dennis Chen",
+            "githuburl": "http://www.github.com/dennis-chen"
+        },
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+            "image": "https://avatars.githubusercontent.com/u/6109782?v=3",
+            "github": "ndhanushkodi",
+            "name": "Nitya Dhanushkodi",
+            "githuburl": "http://www.github.com/ndhanushkodi"
+        },
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+            "image": "https://avatars.githubusercontent.com/u/3280468?v=3",
+            "github": "pmcote",
+            "name": "Paige Cote",
+            "githuburl": "http://www.github.com/pmcote"
+        }
+    ],
+    "teachers": [
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+            "image": "https://avatars.githubusercontent.com/u/6570836?v=3",
+            "github": "jagreene",
+            "name": "Austin Greene",
+            "githuburl": "http://www.github.com/jagreene"
+        },
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+            "image": "https://avatars.githubusercontent.com/u/6156036?v=3",
+            "github": "flymperopoulos",
+            "name": "Filippos Lymperopoulos",
+            "githuburl": "http://www.github.com/flymperopoulos"
+        },
+        {
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+            "image": "https://avatars.githubusercontent.com/u/6156042?v=3",
+            "github": "rvanderheyde",
+            "name": "Radmer van der Heyde",
+            "githuburl": "http://www.github.com/rvanderheyde"
+        },
+        {
+            "bio": "Sarah Walters is a robotics engineer in the Olin College class of 2017. She spent the past two summers working on CAD in the cloud at Onshape and on NLP data visualization at Systems & Technology Research, and she'll be a software development intern at Microsoft during the summer of 2016. She\u2019s fascinated by teaching and learning - her research is on assessment in the context of situational motivation in undergraduate STEM courses - and she plays piano and violin in her spare time.",
+            "image": "https://avatars.githubusercontent.com/u/5607966?v=3",
+            "github": "sarahwalters",
+            "name": "Sarah Walters",
+            "githuburl": "http://www.github.com/sarahwalters"
+        }
+    ]
+}
