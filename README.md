@@ -2,6 +2,7 @@
 
 ## Dependencies
 Ensure that jade is installed (`npm install -g jade`).
+Ensure that python-requests is installed (with pip, `pip install requests`).
 
 If the file `token.txt` does not exist in the root of the directory, create it, then follow [these instructions](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) to create an access token. Paste the token into the file `token.txt`.
 
