@@ -49,12 +49,6 @@
             "name": "Charles Mouton"
         },
         {
-            "githuburl": "http://www.github.com/cwallac",
-            "image": "https://avatars.githubusercontent.com/u/5944477?v=3",
-            "github": "cwallac",
-            "name": "Christopher Wallace"
-        },
-        {
             "githuburl": "http://www.github.com/yunhsincynthiachen",
             "image": "https://avatars.githubusercontent.com/u/6495522?v=3",
             "github": "yunhsincynthiachen",
@@ -89,6 +83,12 @@
             "image": "https://avatars.githubusercontent.com/u/10691724?v=3",
             "github": "hannahtwiggsmith",
             "name": "Hannah Twigg-Smith"
+        },
+        {
+            "githuburl": "http://www.github.com/thecardkid",
+            "image": "https://avatars.githubusercontent.com/u/10700175?v=3",
+            "github": "thecardkid",
+            "name": "Hieu Nguyen"
         },
         {
             "githuburl": "http://www.github.com/iangmhill",
