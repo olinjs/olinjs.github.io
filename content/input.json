@@ -1,28 +1,28 @@
 {
   "ninjas": [
     {
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+      "bio": "Anne LoVerso is a computing engineer in the Olin class of 2017.  Aside from coding, she’s deeply passionate about education and improving schools.  She has interned for Red Hat, and then went to the dark side and interned for Microsoft.  This summer she’ll be working for Pivotal Labs in New York City.  In her spare time, she does aerial circus arts and is probably cooler than you will ever be.",
       "image": "https://avatars0.githubusercontent.com/u/6563663?v=3&s=400",
       "github": "aloverso",
       "name": "Anne LoVerso",
       "githuburl": "https://github.com/aloverso"
     },
     {
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+      "bio": "Dennis Chen is an electrical and computer engineer in the Olin College class of 2017. He worked for Procter and Gamble last year writing software for data analysis and he’ll be at Google next summer as a software development intern. Computer stuff he thinks is rad: vim and competitive programming. He also thinks skateboarding is really cool and his main aspiration in life is to kickflip.",
       "image": "https://avatars2.githubusercontent.com/u/6440471?v=3&s=400",
       "github": "dennis-chen",
       "name": "Dennis Chen",
       "githuburl": "https://github.com/dennis-chen"
     },
     {
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+      "bio": "Nitya Dhanushkodi is an electrical and computer engineer in Olin’s class of 2017. She worked on a enterprise network data visualization and analysis app for network administrators while at Cisco during the summer of 2015, and she’ll be taking a crack at the cloud this summer of 2016 working at Pivotal Cloud Foundry in SF. She plays soccer, does research on motivation in different undergraduate engineering classroom environments, and her favorite food/drink in the whole world, like, ever, is honey and peach green milk tea from Tpumps. #tea4lyfe",
       "image": "https://avatars1.githubusercontent.com/u/6109782?v=3&s=400",
       "github": "ndhanushkodi",
       "name": "Nitya Dhanushkodi",
       "githuburl": "https://github.com/ndhanushkodi"
     },
     {
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+      "bio": "Paige Cote is a computing/design engineer in Olin’s class of 2016.5. She will graduate late due to a preoccupation with travel and engineering education, which led her to spend the first part of this year in Brazil helping design the computing curriculum for a new engineering school. In her spare time, she loves reading silly sci-fi novels, going to healthcare-oriented hackathons, and spending too much money on fancy cheese.",
       "image": "https://avatars0.githubusercontent.com/u/3280468?v=3&s=400",
       "github": "pmcote",
       "name": "Paige Cote",
@@ -31,21 +31,21 @@
   ],
   "teachers": [
     {
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+      "bio": "Austin Greene is a Software Product Design Engineer in the class of 2017. The last summer he worked at Indico working on everything from new ML models to frontend webdev. In his spare time he reads books about history and coops himself up in his room working on various side projects. His friends never see him.",
       "image": "https://avatars1.githubusercontent.com/u/6570836?v=3&s=400",
       "github": "jagreene",
       "name": "Austin Greene",
       "githuburl": "https://github.com/jagreene"
     },
     {
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+      "bio": "Filippos Lymperopoulos is an electrical and computer engineer in Olin’s class of 2017. Last summer he worked as a Software Development Intern at Ericsson writing a suite of APIs for Ericsson’s Cloud and Policy Manager. This summer he will be working as a Product Manager Intern at Tableau Software in Seattle, WA. Filippos loves software, design and football. OlinJS isssss the beeest classs guyz #leggo.",
       "image": "https://avatars0.githubusercontent.com/u/6156036?v=3&s=400",
       "github": "flymperopoulos",
       "name": "Filippos Lymperopoulos",
       "githuburl": "https://github.com/flymperopoulos"
     },
     {
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis turpis eu tempus commodo. Morbi mattis vitae velit vitae mollis. Suspendisse non sem eleifend, suscipit neque ac, viverra odio. Pellentesque posuere malesuada magna viverra dapibus. Sed ut diam maximus, maximus mi et, facilisis quam. Vivamus quis nisi porttitor, lacinia nisl egestas, volutpat tortor. In mattis condimentum orci, eu hendrerit lorem fermentum at. Cras eu purus blandit, commodo eros id, fringilla purus. Aliquam eu lobortis libero, et sagittis purus.",
+      "bio": "Radmer van der Heyde is a electrical and computer engineer in the class of 2017. Last summer, he worked creating data analysis apps for The Dark Sky company and this summer he will be a software development intern for Athenahealth.",
       "image": "https://avatars1.githubusercontent.com/u/6156042?v=3&s=400",
       "github": "rvanderheyde",
       "name": "Radmer van der Heyde",
