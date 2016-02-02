@@ -13,12 +13,6 @@
             "name": "Annabel Consilvio"
         },
         {
-            "githuburl": "http://www.github.com/acenario",
-            "image": "https://avatars.githubusercontent.com/u/591849?v=3",
-            "github": "acenario",
-            "name": "Arjun Bhatnagar"
-        },
-        {
             "githuburl": "http://www.github.com/billmwong",
             "image": "https://avatars.githubusercontent.com/u/10703134?v=3",
             "github": "billmwong",
@@ -184,7 +178,13 @@
             "githuburl": "http://www.github.com/zhecanjameswang",
             "image": "https://avatars.githubusercontent.com/u/8936136?v=3",
             "github": "zhecanjameswang",
-            "name": "Zhecan James Wang"
+            "name": "Zhecan \"James\" Wang"
+        },
+        {
+            "githuburl": "http://www.github.com/ziyilan",
+            "image": "https://avatars.githubusercontent.com/u/10761679?v=3",
+            "github": "ziyilan",
+            "name": "Ziyi \"Jason\" Lan"
         },
         {
             "githuburl": "http://www.github.com/dinopants174",
