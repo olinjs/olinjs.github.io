@@ -62,7 +62,6 @@
   "students": [
     {"name": "Andrew Deaver","github":"adeaver"},
     {"name": "Annabel Consilvio","github":"aconsilvio"},
-    {"name": "Arjun Bhatnagar","github":"acenario"},
     {"name": "Bill Wong","github":"billmwong"},
     {"name": "Brenna Manning","github":"brennamanning"},
     {"name": "Byron Wasti","github":"byronwasti"},
@@ -90,7 +89,8 @@
     {"name": "Shruti Iyer","github":"shrutiyer"},
     {"name": "Sophia Seitz","github":"phiaseitz"},
     {"name": "Zarin Bhuiyan","github":"zbhuiyan"},
-    {"name": "Zhecan James Wang","github":"zhecanjameswang"},
+    {"name": "Zhecan \"James\" Wang","github":"zhecanjameswang"},
+    {"name": "Ziyi \"Jason\" Lan","github":"ziyilan"},
     {"name": "Zoher Ghadyali","github":"dinopants174"}
   ]
 }
