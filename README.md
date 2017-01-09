@@ -1,4 +1,4 @@
-# Olin.js 2015
+# Olin.js 2017
 
 ## Dependencies
 Ensure that jade is installed (`npm install -g jade`).
