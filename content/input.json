@@ -1,62 +1,41 @@
 {
   "ninjas": [
     {
-      "bio": "Anne LoVerso is a computing engineer in the Olin class of 2017.  Aside from coding, she’s deeply passionate about education and improving schools.  She has interned for Red Hat, and then went to the dark side and interned for Microsoft.  This summer she’ll be working for Pivotal Labs in New York City.  In her spare time, she does aerial circus arts and is probably cooler than you will ever be.",
-      "image": "https://avatars0.githubusercontent.com/u/6563663?v=3&s=400",
-      "github": "aloverso",
-      "name": "Anne LoVerso",
-      "githuburl": "https://github.com/aloverso"
+        "bio": "Austin Greene is a Software Product Design Engineer in the class of 2017. The last summer he worked at Indico working on everything from new ML models to frontend webdev. In his spare time he reads books about history and coops himself up in his room working on various side projects. His friends never see him.",
+        "image": "https://avatars.githubusercontent.com/u/6570836?v=3",
+        "github": "jagreene",
+        "name": "Austin Greene",
+        "githuburl": "http://www.github.com/jagreene"
     },
     {
-      "bio": "Dennis Chen is an electrical and computer engineer in the Olin College class of 2017. He worked for Procter and Gamble last year writing software for data analysis and he’ll be at Google next summer as a software development intern. Computer stuff he thinks is rad: vim and competitive programming. He also thinks skateboarding is really cool and his main aspiration in life is to kickflip.",
-      "image": "https://avatars2.githubusercontent.com/u/6440471?v=3&s=400",
-      "github": "dennis-chen",
-      "name": "Dennis Chen",
-      "githuburl": "https://github.com/dennis-chen"
+        "bio": "Brenna Manning is...",
+        "image": "https://avatars.githubusercontent.com/u/8933563?v=3",
+        "github": "brennamanning",
+        "name": "Brenna Manning",
+        "githuburl": "http://www.github.com/brennamanning"
     },
     {
-      "bio": "Nitya Dhanushkodi is an electrical and computer engineer in Olin’s class of 2017. She worked on a enterprise network data visualization and analysis app for network administrators while at Cisco during the summer of 2015, and she’ll be taking a crack at the cloud this summer of 2016 working at Pivotal Cloud Foundry in SF. She plays soccer, does research on motivation in different undergraduate engineering classroom environments, and her favorite food/drink in the whole world, like, ever, is honey and peach green milk tea from Tpumps. #tea4lyfe",
-      "image": "https://avatars1.githubusercontent.com/u/6109782?v=3&s=400",
-      "github": "ndhanushkodi",
-      "name": "Nitya Dhanushkodi",
-      "githuburl": "https://github.com/ndhanushkodi"
-    },
-    {
-      "bio": "Paige Cote is a computing/design engineer in Olin’s class of 2016.5. She will graduate late due to a preoccupation with travel and engineering education, which led her to spend the first part of this year in Brazil helping design the computing curriculum for a new engineering school. In her spare time, she loves reading silly sci-fi novels, going to healthcare-oriented hackathons, and spending too much money on fancy cheese.",
-      "image": "https://avatars0.githubusercontent.com/u/3280468?v=3&s=400",
-      "github": "pmcote",
-      "name": "Paige Cote",
-      "githuburl": "https://github.com/pmcote"
+        "bio": "Zoher Ghadyali is...",
+        "image": "https://avatars.githubusercontent.com/u/5992372?v=3",
+        "github": "dinopants174",
+        "name": "Zoher Ghadyali",
+        "githuburl": "http://www.github.com/dinopants174"
     }
   ],
   "teachers": [
     {
-      "bio": "Austin Greene is a Software Product Design Engineer in the class of 2017. The last summer he worked at Indico working on everything from new ML models to frontend webdev. In his spare time he reads books about history and coops himself up in his room working on various side projects. His friends never see him.",
-      "image": "https://avatars1.githubusercontent.com/u/6570836?v=3&s=400",
-      "github": "jagreene",
-      "name": "Austin Greene",
-      "githuburl": "https://github.com/jagreene"
+        "bio": "Bill Wong is...",
+        "image": "https://avatars.githubusercontent.com/u/10703134?v=3",
+        "github": "billmwong",
+        "name": "Bill Wong",
+        "githuburl": "http://www.github.com/billmwong"
     },
     {
-      "bio": "Filippos Lymperopoulos is an electrical and computer engineer in Olin’s class of 2017. Last summer he worked as a Software Development Intern at Ericsson writing a suite of APIs for Ericsson’s Cloud and Policy Manager. This summer he will be working as a Product Manager Intern at Tableau Software in Seattle, WA. Filippos loves software, design and football. OlinJS isssss the beeest classs guyz #leggo.",
-      "image": "https://avatars0.githubusercontent.com/u/6156036?v=3&s=400",
-      "github": "flymperopoulos",
-      "name": "Filippos Lymperopoulos",
-      "githuburl": "https://github.com/flymperopoulos"
-    },
-    {
-      "bio": "Radmer van der Heyde is a electrical and computer engineer in the class of 2017. Last summer, he worked creating data analysis apps for The Dark Sky company and this summer he will be a software development intern for Athenahealth.",
-      "image": "https://avatars1.githubusercontent.com/u/6156042?v=3&s=400",
-      "github": "rvanderheyde",
-      "name": "Radmer van der Heyde",
-      "githuburl": "https://github.com/rvanderheyde"
-    },
-    {
-      "bio": "Sarah Walters is a robotics engineer in the Olin College class of 2017. She spent the past two summers working on CAD in the cloud at Onshape and on NLP data visualization at Systems & Technology Research, and she'll be a software development intern at Microsoft during the summer of 2016. She’s fascinated by teaching and learning - her research is on assessment in the context of situational motivation in undergraduate STEM courses - and she plays piano and violin in her spare time.",
-      "image": "https://avatars.githubusercontent.com/u/5607966?v=3",
-      "github": "sarahwalters",
-      "name": "Sarah Walters",
-      "githuburl": "http://www.github.com/sarahwalters"
+        "bio": "Cynthia Chen is...",
+        "image": "https://avatars.githubusercontent.com/u/6495522?v=3",
+        "github": "yunhsincynthiachen",
+        "name": "Cynthia Chen",
+        "githuburl": "http://www.github.com/yunhsincynthiachen"
     }
   ],
   "students": [
@@ -67,30 +46,6 @@
     {"name": "Byron Wasti","github":"byronwasti"},
     {"name": "Casey Alvarado","github":"caseyalvarado"},
     {"name": "Charles Mouton","github":"charliemouton"},
-    {"name": "Cynthia Chen","github":"yunhsincynthiachen"},
-    {"name": "Daniel Bishop","github":"daniel6"},
-    {"name": "David Abrahams","github":"greneroom"},
-    {"name": "Dominique McKenzie","github":"tmntbunny"},
-    {"name": "Gabriel Butterick","github":"buttegab"},
-    {"name": "Hannah Twigg-Smith","github":"hannahtwiggsmith"},
-    {"name": "Hieu Nguyen", "github":"thecardkid"},
-    {"name": "Ian Hill","github":"iangmhill"},
-    {"name": "Jennifer Wei","github":"jenwei"},
-    {"name": "Joey Maalouf","github":"joeylmaalouf"},
-    {"name": "Jordan Van Duyne","github":"jovanduy"},
-    {"name": "Julian Morris","github":"jmorris1993"},
-    {"name": "Keenan Zucker","github":"keenanzucker"},
-    {"name": "Mac-I Crowell","github":"macicrowell"},
-    {"name": "Mimi Kome", "github": "mqlkome"},
-    {"name": "Nora Mohamed","github":"nmohamed"},
-    {"name": "Patrick Huston","github":"phuston"},
-    {"name": "Samantha Kumarasena","github":"skumarasena"},
-    {"name": "Sean Carter","github":"seanccarter"},
-    {"name": "Shruti Iyer","github":"shrutiyer"},
-    {"name": "Sophia Seitz","github":"phiaseitz"},
-    {"name": "Zarin Bhuiyan","github":"zbhuiyan"},
-    {"name": "Zhecan \"James\" Wang","github":"zhecanjameswang"},
-    {"name": "Ziyi \"Jason\" Lan","github":"ziyilan"},
-    {"name": "Zoher Ghadyali","github":"dinopants174"}
+    {"name": "Cynthia Chen","github":"yunhsincynthiachen"}
   ]
 }
