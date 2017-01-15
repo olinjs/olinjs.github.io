@@ -1,52 +1,46 @@
 {
     "students": [
         {
-            "githuburl": "http://www.github.com/adeaver",
-            "image": "https://avatars.githubusercontent.com/u/9396170?v=3",
-            "github": "adeaver",
-            "name": "Andrew Deaver"
+            "githuburl": "http://www.github.com/apan64",
+            "image": "https://avatars.githubusercontent.com/u/14830178?v=3",
+            "github": "apan64",
+            "name": "Andrew Pan"
         },
         {
-            "githuburl": "http://www.github.com/aconsilvio",
-            "image": "https://avatars.githubusercontent.com/u/10188086?v=3",
-            "github": "aconsilvio",
-            "name": "Annabel Consilvio"
+            "githuburl": "http://www.github.com/arianaolson419",
+            "image": "https://avatars.githubusercontent.com/u/15851197?v=3",
+            "github": "arianaolson419",
+            "name": "Ariana Olson"
         },
         {
-            "githuburl": "http://www.github.com/billmwong",
-            "image": "https://avatars.githubusercontent.com/u/10703134?v=3",
-            "github": "billmwong",
-            "name": "Bill Wong"
+            "githuburl": "http://www.github.com/jag-123",
+            "image": "https://avatars.githubusercontent.com/u/15836187?v=3",
+            "github": "jag-123",
+            "name": "Jeremiah Garcia"
         },
         {
-            "githuburl": "http://www.github.com/brennamanning",
-            "image": "https://avatars.githubusercontent.com/u/8933563?v=3",
-            "github": "brennamanning",
-            "name": "Brenna Manning"
+            "githuburl": "http://www.github.com/logandavis",
+            "image": "https://avatars.githubusercontent.com/u/5788655?v=3",
+            "github": "logandavis",
+            "name": "Logan Davis"
         },
         {
-            "githuburl": "http://www.github.com/byronwasti",
-            "image": "https://avatars.githubusercontent.com/u/5985936?v=3",
-            "github": "byronwasti",
-            "name": "Byron Wasti"
+            "githuburl": "http://www.github.com/rachelyang02",
+            "image": "https://avatars.githubusercontent.com/u/14933674?v=3",
+            "github": "rachelyang02",
+            "name": "Rachel Yang"
         },
         {
-            "githuburl": "http://www.github.com/caseyalvarado",
-            "image": "https://avatars.githubusercontent.com/u/6495376?v=3",
-            "github": "caseyalvarado",
-            "name": "Casey Alvarado"
+            "githuburl": "http://www.github.com/olinjs",
+            "image": "https://avatars.githubusercontent.com/u/3213751?v=3",
+            "github": "olinjs",
+            "name": "Seungin Lyu"
         },
         {
-            "githuburl": "http://www.github.com/charliemouton",
-            "image": "https://avatars.githubusercontent.com/u/6484734?v=3",
-            "github": "charliemouton",
-            "name": "Charles Mouton"
-        },
-        {
-            "githuburl": "http://www.github.com/yunhsincynthiachen",
-            "image": "https://avatars.githubusercontent.com/u/6495522?v=3",
-            "github": "yunhsincynthiachen",
-            "name": "Cynthia Chen"
+            "githuburl": "http://www.github.com/Halliax",
+            "image": "https://avatars.githubusercontent.com/u/15355405?v=3",
+            "github": "Halliax",
+            "name": "Taylor Sheneman"
         }
     ],
     "ninjas": [

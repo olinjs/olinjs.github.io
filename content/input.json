@@ -39,13 +39,12 @@
     }
   ],
   "students": [
-    {"name": "Andrew Deaver","github":"adeaver"},
-    {"name": "Annabel Consilvio","github":"aconsilvio"},
-    {"name": "Bill Wong","github":"billmwong"},
-    {"name": "Brenna Manning","github":"brennamanning"},
-    {"name": "Byron Wasti","github":"byronwasti"},
-    {"name": "Casey Alvarado","github":"caseyalvarado"},
-    {"name": "Charles Mouton","github":"charliemouton"},
-    {"name": "Cynthia Chen","github":"yunhsincynthiachen"}
+    {"name": "Andrew Pan","github":"apan64"},
+    {"name": "Ariana Olson","github":"arianaolson419"},
+    {"name": "Jeremiah Garcia","github":"jag-123"},
+    {"name": "Logan Davis","github":"logandavis"},
+    {"name": "Rachel Yang","github":"rachelyang02"},
+    {"name": "Seungin Lyu","github":""},
+    {"name": "Taylor Sheneman","github":"Halliax"}
   ]
 }
