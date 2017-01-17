@@ -31,12 +31,6 @@
             "name": "Rachel Yang"
         },
         {
-            "githuburl": "http://www.github.com/olinjs",
-            "image": "https://avatars.githubusercontent.com/u/3213751?v=3",
-            "github": "olinjs",
-            "name": "Seungin Lyu"
-        },
-        {
             "githuburl": "http://www.github.com/Halliax",
             "image": "https://avatars.githubusercontent.com/u/15355405?v=3",
             "github": "Halliax",
@@ -59,7 +53,7 @@
             "githuburl": "http://www.github.com/brennamanning"
         },
         {
-            "bio": "Zoher Ghadyali is...",
+            "bio": "Zoher is an Electrical and Computer Engineer in the class of 2017. He does not have swoopy hair. He actually did so badly in OlinJS the first time around that he has to take it again, only this time as a NINJA. That doesn\u2019t mean you shouldn\u2019t ask him questions though because you\u2019ll definitely get at least what the first link on Google says as a response from him.",
             "image": "https://avatars.githubusercontent.com/u/5992372?v=3",
             "github": "dinopants174",
             "name": "Zoher Ghadyali",
@@ -68,14 +62,14 @@
     ],
     "teachers": [
         {
-            "bio": "Bill Wong is...",
+            "bio": "Bill is a Software Engineer in the class of 2018 with swoopy hair.  When not slaving over code, he dabbles in improv and professionally watching baseball.  He drinks mostly water, and needs to be fed twice a day.",
             "image": "https://avatars.githubusercontent.com/u/10703134?v=3",
             "github": "billmwong",
             "name": "Bill Wong",
             "githuburl": "http://www.github.com/billmwong"
         },
         {
-            "bio": "Cynthia Chen is...",
+            "bio": "Cynthia Chen is an Electrical and Computer Engineer in the class of 2017. She enjoys She drinks wine as if it were water, and needs to be fed more than twice a day.",
             "image": "https://avatars.githubusercontent.com/u/6495522?v=3",
             "github": "yunhsincynthiachen",
             "name": "Cynthia Chen",
